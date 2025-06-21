@@ -14,7 +14,7 @@
 
 <div align ="center">
   
-  <img src="https://github.com/user-attachments/assets/873d60e1-b2ca-4a71-9f4a-df71fc999484" width="450" alt="Resized Image"> <img src="https://github.com/user-attachments/assets/c07a6600-73b6-4ae4-9e6c-6c809594a2fb" width="450" alt="Resized Image">
+  <img src="https://github.com/user-attachments/assets/873d60e1-b2ca-4a71-9f4a-df71fc999484" width="400" alt="Resized Image"> <img src="https://github.com/user-attachments/assets/c07a6600-73b6-4ae4-9e6c-6c809594a2fb" width="400" alt="Resized Image">
   
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align ="center">
 
-  <img src="https://github.com/user-attachments/assets/26747d63-a77d-4bcb-aa7b-1d1b26f3b8cd" width="900" alt="Resized Image">
+  <img src="https://github.com/user-attachments/assets/26747d63-a77d-4bcb-aa7b-1d1b26f3b8cd" width="800" alt="Resized Image">
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align ="center">
   
-  <img src="https://github.com/user-attachments/assets/19cff736-b030-486f-be11-9af6b1ddc8be" width="900" alt="Resized Image">
+  <img src="https://github.com/user-attachments/assets/19cff736-b030-486f-be11-9af6b1ddc8be" width="800" alt="Resized Image">
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align ="center">
   
-  <img src="https://github.com/user-attachments/assets/1c04f0d5-f1b7-407a-81f0-26cef482a043" width="900" alt="Resized Image">
+  <img src="https://github.com/user-attachments/assets/1c04f0d5-f1b7-407a-81f0-26cef482a043" width="800" alt="Resized Image">
 
 </div>
 
